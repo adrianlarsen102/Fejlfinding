@@ -1,4 +1,4 @@
-# Fejlfindings Utilitus 
+# Fejlfinding Utilities
 
 Samling af PowerShell-scripts til Windows-administration.
 
